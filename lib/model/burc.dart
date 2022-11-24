@@ -19,7 +19,7 @@ class Burc {
       this._burcBuyukResim);
 
   @override
-  /*String toString() {
+  String toString() {
     return '$_burcAdi - $_burcBuyukResim';
-  }*/
+  }
 }

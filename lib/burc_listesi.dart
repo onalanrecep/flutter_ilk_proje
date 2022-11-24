@@ -7,7 +7,7 @@ class BurcListesi extends StatelessWidget {
   late final List<Burc> tumBurclar;
   BurcListesi() {
     tumBurclar = veriKaynaginiHazirla();
-    print(tumBurclar);
+    //print(tumBurclar);
   }
 
   @override
